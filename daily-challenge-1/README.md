@@ -1,5 +1,5 @@
 Hello, there i'm Nancy.
-This is my week 3 work (tasks and chllenge
+This is my week 3 work (tasks and challenge)
 Inside this project we hve file that contains
 -'create-boilerplate.sh' -The script that genretes the boilerplate
 -'src/index.html' -The HTML5 boilerplate file created by the script
