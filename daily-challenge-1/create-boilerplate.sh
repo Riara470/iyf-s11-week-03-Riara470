@@ -1,3 +1,6 @@
+#!/bin/bash
+echo "creating index.html..."
+cat > src/index.html << EOF
 <DOCTYPE html>
 <html lange="en">
 <head>
@@ -11,3 +14,6 @@
     <script src="js/app.js"<>/script>
 </body>
 </html>
+EOF
+echo "Done! index.html created with boilerplate"
+
