@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **IYF 30-Day Coding Challenge**
+- 🔭 I’m currently working on **IYF three month Coding Challenge**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript & Git**
 - 💬 Ask me about **beginner web dev stuff**
-- ⚡ Fun fact: **Day 1 of my coding journey started here!**
+- ⚡ Fun fact: **my coding journey continous here lets go on!**
 
 ---
 
