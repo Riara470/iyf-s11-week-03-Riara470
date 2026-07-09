@@ -13,6 +13,20 @@
 - 💬 Ask me about **beginner web dev stuff**
 - ⚡ Fun fact: **my coding journey continous here lets go on!**
 
+  ## 📌 Project Overview
+This repository documents my learning progress for IYF S11 Week 3.
+The focus of this week was mastering basic Command Line Interface commands and using Git & GitHub for version control.
+
+I completed 3 required CLI commands, documented the process in terminal-log.md, and pushed all changes to this repository.
+
+## 🎯 Learning Objectives
+By the end of this week, I was able to:
+- Navigate the file system using CLI commands
+- List files and directories in a repository
+- Check Git status and understand version control workflow
+- Commit changes and push to GitHub
+- Document work professionally using Markdown
+
 ---
 
 ### 🛠️ Tech Stack
