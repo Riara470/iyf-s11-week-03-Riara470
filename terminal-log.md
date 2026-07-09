@@ -19,7 +19,6 @@ pwd
 ```bash
 ls
 ```
-**Result**: README.md  daily-challenge-1  docs  my-project  terminal-log.md
 ---
 ## Command 3: Check git status
 **Goal**: See what files git is tracking
