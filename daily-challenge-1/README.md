@@ -6,7 +6,7 @@ Inside this project we have file that contains
 -'src/index.html'
 -The HTML5 boilerplate file created by the script 
 -'src/css/style.css'
-- Empty CSS file for sytling
+- Empty CSS file for styling
 -  -'src/js/app.js'
 To use it you have to make  the script executable:'''bash
 chmod +* create-boilerplate.sh
